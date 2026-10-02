@@ -1,4 +1,4 @@
-# PortfolioPilot — Milestone 18: Build Grounded Portfolio Chat
+# Build Grounded Portfolio Chat
 
 PortfolioPilot is a teaching project: a stock portfolio manager with a live news feed and an AI
 research assistant. This folder is the state of the project **after milestone 18**.
